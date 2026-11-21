@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+apscheduler
+pydantic[email]
+python-multipart
+pandas
